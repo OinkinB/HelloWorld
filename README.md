@@ -34,7 +34,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+    - I could not figure out how to make to toast message and image change depending on what image was on screen.
+    - The goal was to have the images continue to swap back and forth.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
